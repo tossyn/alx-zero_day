@@ -3,4 +3,4 @@ git status
 git add 
 git comit 
 git push 
-git checkout
+git checkoutgit pull
